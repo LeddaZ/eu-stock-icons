@@ -107,7 +107,8 @@ prop_process() {
 
 # Credits
 ui_print "**************************************"
-ui_print "*   MMT Extended by Zackptg5 @ XDA   *"
+ui_print "*   Remove xiaomi.eu custom icons    *"
+ui_print "*   Powered by @Zackptg5's MMT-Ex    *"
 ui_print "**************************************"
 ui_print " "
 

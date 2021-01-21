@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=eu-stock-icons
+name=Restore stock icons on xiaomi.eu
+version=v1.0
+versionCode=1
+author=LeddaZ
+description=Removes xiaomi.eu's custom icons systemlessly
+support=https://t.me/LeddaZ
